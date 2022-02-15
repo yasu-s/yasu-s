@@ -1,16 +1,15 @@
-### Hi there 👋
+### Stats
 
-<!--
-**yasu-s/yasu-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=yasu-s&show_icons=true&count_private=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasu-s&layout=compact" />
+</a>
 
-Here are some ideas to get you started:
+### URL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [プロフィール詳細](https://github.com/yasu-s/docs/blob/master/profile.md)
+- [はてぶ](https://kakkoyakakko2.hatenablog.com/)
+- [Zenn](https://zenn.dev/kakkoyakakko)
+- [Qiita](https://qiita.com/yasu-s)
